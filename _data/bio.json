@@ -1,25 +1,22 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jayrell Allen Ballesteros",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/Kyj1n.png",
+    "email": "jayrell@hawaii.edu",
+    "phone": "808-367-4831",
+    "website": "https://Kyj1n.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Kyj1n", "url": "http://github.com/Kyj1n" },
+      { "network": "linkedin", "username": "Jayrell Allen Ballesteros", "url": "www.linkedin.com/in/jayrell-allen-ballesteros-378390278" },
+     
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
+    { "name": "Software Engineering" },
+    { "name": "Web Developing" },
     { "name": "3D Graphics" }
   ],
   "skills": [
