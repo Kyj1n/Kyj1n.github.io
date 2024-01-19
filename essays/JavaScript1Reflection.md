@@ -6,7 +6,7 @@ title: "Entering the world of JavaScript"
 date: 2024-01-17
 published: true
 labels:
-  - Engineering
+  - JavaScript
 ---
 
 *Entering the world of JavaScript*
