@@ -14,7 +14,6 @@ labels:
 <img width="200px"
     class="rounded float-start pe-4"
     src="https://www.clarkson.edu/sites/default/files/2023-06/Software-Engineering-Hero-1600x900.jpg" alt="Software Engineering Image">
-<sub>Image Caption</sub>
 
 ## The Discovery & What is Software Engineering?
 
@@ -26,8 +25,7 @@ Through applications, combined with our creativity and intelligence, we can lay 
 
 <img width="200px"
     class="rounded float-start pe-4"
-    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elegantthemes.com%2Fblog%2Ftips-tricks%2Flearn-web-development-online&psig=AOvVaw0VoGReCtXYNrwgcpo22XoZ&ust=1705729579417000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCR4v_f6IMDFQAAAAAdAAAAABAD" alt="Web Development Image">
-<sub>Image Caption</sub>
+    src="https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png" alt="Web Development Image">
 
 There are many incredible areas and concepts in software development that spark the interest of millions. To me, web development has completely captivated my curiosity. Building interactive and dynamic websites while also attempting to cater to the general public by creating a visually appealing site is something that charms both my coding and digital art design interests. Thus when it comes to web development, front-end development does indeed seem more intriguing to me and it is something I hope to dabble more into.
 
