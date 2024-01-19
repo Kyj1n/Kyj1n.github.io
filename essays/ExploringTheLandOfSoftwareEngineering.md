@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Entering the world of JavaScript"
+title: "Exploring The Land Of Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-18
 published: true
