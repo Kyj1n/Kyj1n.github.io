@@ -32,9 +32,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected to graduate by 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-08-24",
       "endDate": "Present",
       "courses": [
       ]
@@ -42,71 +42,41 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Vector Marketing",
+      "position": "Sales Associate",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2023-06",
+      "endDate": "2023-08",
+      "summary": "Embarking on a role as a Sales Associate with Vector Marketing and Cutco opens doors to a unique and rewarding experience in the world of direct sales. As an integral part of the team, you'll engage in direct marketing and sales of high-quality Cutco products. This role offers the chance to develop valuable sales and communication skills, work with a reputable brand, and earn competitive commissions.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Networking: Develop networking skills by building relationships with clients and expanding your professional network.",
+        "Direct Sales: Engage in direct marketing and sales efforts, presenting Cutco products to potential customers in a variety of settings."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UNIQLO",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "2023-010",
+      "endDate": "Present",
+      "summary": "Being a Sales Associate at Uniqlo is a dynamic and customer-focused role where you'll contribute to providing an exceptional shopping experience. As a key member of the retail team, you'll engage with customers, assist them in finding the perfect products, and uphold Uniqlo's commitment to quality and service. This role offers an opportunity to be part of a global fashion brand, contributing to a vibrant and collaborative work environment.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Customer Service: Provide outstanding customer service by assisting and advising shoppers on product selection and styling.",
+        "Sales Goals: Work towards achieving individual and team sales targets through effective communication and product knowledge."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "organization": "Aiea High School",
+      "website": "https://www.aieahs.org/",
+      "position": "Station Attendant",
+      "startDate": "2016",
+      "endDate": "2020",
+      "summary": "As a dedicated volunteer, I actively contribute my time and skills to various community initiatives for my school and community. Passionate about making a positive impact, I engaged in activities that provided carnival game experiences to both students, families, and children.",
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+  
   "references": [
     {
       "name": "Available upon request"
