@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image: img/Screenshot 2024-01-18 at 8.51.29 PM.png
 title: "Galactoid"
 date: 2019
 published: true
