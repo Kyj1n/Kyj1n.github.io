@@ -17,12 +17,12 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Web Developing" },
-    { "name": "3D Graphics" }
+    { "name": "UI/UX Design" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
