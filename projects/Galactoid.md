@@ -7,7 +7,7 @@ date: 2019
 published: true
 labels:
   - Scratch
-summary: "A text adventure game that I developed for ICS 313."
+summary: "A project that I created a few years back in High School in which we were taught on how to use Scratch."
 ---
 
 <img class="img-fluid" src="..img/Screenshot 2024-01-18 at 8.51.29 PM.png">
