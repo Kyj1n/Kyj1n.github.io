@@ -10,7 +10,7 @@ labels:
 summary: "A project that I created a few years back in High School in which we were taught on how to use Scratch."
 ---
 
-<img class="img-fluid" src="..img/Screenshot 2024-01-18 at 8.51.29 PM.png">
+<img class="img-fluid" src="../img/Screenshot 2024-01-18 at 8.51.29 PM.png">
 
 "Galactoid" is one of the games that I created on Scratch as a final project in a simple computer science back in High School. There a few other projects that I've created at the time but I decided this is the one that I wanted to showcase because it was one that took me some time. 
 The game is a simple spaceship arcade style shooter in which your goal is to simply eliminate as much alien ships while trying not to get exploded yourself. 
