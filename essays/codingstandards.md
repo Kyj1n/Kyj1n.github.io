@@ -26,6 +26,9 @@ Coding standards establish a consistent and uniform approach to writing code wit
 This provides numerous benefits that extend beyond just code aesthetics. One of the advantages is the enhancement of code readability and maintainability. Having consistently formatted code makes it easier to comprehend, debug, and modify, reducing the time and effort required for maintenance tasks. 
 
 ## Benefits towards Communication
+<img width="200px"
+    class="rounded float-start pe-4"
+    src="/img/images.png">
 When these guidelines are understood universally, it truly shows how important coding standards are when compared to "correct grammar" in any worldwide
 spoken language. Coding standards promote collaboration and code review processes. When all team members understand and commit to a common set of conventions, 
 reviewing and understanding each other's code becomes more efficient. It allows smoother communication and facilitates knowledge among the team members.
