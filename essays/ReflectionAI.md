@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Experience with Artifical Intelligence in ICS 314"
+title: "Artificial Intelligence: Friend or Foe?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-2
 published: true
@@ -10,7 +10,7 @@ labels:
   - ChatGPT
 ---
 
-# My Experience with Aritifical Intelligence in ICS 314
+# Artificial Intelligence: Friend or Foe?
 
 ### I. Introduction
 
@@ -21,7 +21,7 @@ labels:
 Artificial Intelligence (AI) has become increasingly integral to various areas, including education. In the realm of education, AI offers innovative solutions to enhance learning experiences, personalize education, and easily accomplish tasks. Particularly in fields like Software Engineering, where staying updated with the latest technologies and methodologies is crucial, AI plays a significant role in shaping the learning process by helping users come up with new ideas or even help them out a coding "ditch".
 
 
-### II. Personal Experience with AI:
+### II. Personal Experience with AI in ICS 314:
 I have used AI in class this semester in the following areas:
 
 1. Experience WODs e.g. E18
