@@ -14,7 +14,8 @@ labels:
 
 ### I. Introduction
 
-<img src="https://incubator.ucf.edu/wp-content/uploads/2023/07/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1.jpg" alt="Artificial Intelligence Image">
+<img src="https://incubator.ucf.edu/wp-content/uploads/2023/07/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1.jpg" alt="Artificial Intelligence Image" width="200px">
+
 
 
 Artificial Intelligence (AI) has become increasingly integral to various areas, including education. In the realm of education, AI offers innovative solutions to enhance learning experiences, personalize education, and easily accomplish tasks. Particularly in fields like Software Engineering, where staying updated with the latest technologies and methodologies is crucial, AI plays a significant role in shaping the learning process by helping users come up with new ideas or even help them out a coding "ditch".
