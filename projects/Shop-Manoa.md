@@ -19,6 +19,8 @@ The project, tentatively named “Shop-Manoa”, aims to address the rapid turno
 
 Shop-Manoa allows UHM students, faculty, and staff to buy and sell student-related goods and services. Whether it'd range from furniture, to transporation, to food, the range of items being bought and sold out site are wide. Thus, this platform is similar and inspired by Craigslist, with some key differences to help fight anonymity, and the allows the users freedom to decide how to contact and how transactions can be done.
 
+---
+
 In this project, my main contribution was morely towards the development of the Profile, some-what of the landing page, and a lot of effort towards the list of items page. 
 
 In my opinion, the biggest obstacle for me was soley the list of items page (labeled as "Items"), as the site sole relied on that one page. Having most of our pages requiring and linking to it alone. Not only that but it was also the most important page on the website. Otherwise. How can we have a buy-and-sell website without a page to show what can be bought?
