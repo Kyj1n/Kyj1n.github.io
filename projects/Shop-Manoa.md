@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/bristlebots.jpg
-title: "Shop_Manoa"
+image: img/swe-essay/Screenshot 2024-05-09 at 9.19.45 PM.png
+title: "Shop-Manoa"
 date: 2025-05-09
 published: true
 labels:
