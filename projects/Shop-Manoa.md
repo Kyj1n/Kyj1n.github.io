@@ -12,7 +12,7 @@ labels:
   - Web Application
 summary: "Shop-Manoa. A safe and easy way to buy and sell used items"
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/swe-essay/Screenshot%202024-05-09%20at%209.19.45%20PM.png">
+<img width="800px" class="rounded float-start pe-4" src="../img/swe-essay/Screenshot%202024-05-09%20at%209.19.45%20PM.png">
 
 
 The project, tentatively named “Shop-Manoa”, aims to address the rapid turnover of goods and services among students at the University of Hawaii at Manoa (UHM). The primary goal is to create an effective marketplace for campus-specific items, facilitating their recycling and reuse in a safe manner.
