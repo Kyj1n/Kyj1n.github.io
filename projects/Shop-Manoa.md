@@ -12,14 +12,6 @@ labels:
   - Web Application
 summary: "Shop-Manoa. A safe and easy way to buy and sell used items"
 ---
-<style>
-  .project-image {
-    max-width: 100px; /* Adjust the width as needed */
-    height: auto; /* Maintain aspect ratio */
-  }
-</style>
-
-<img class="project-image" src="{{ page.image }}" alt="Shop-Manoa">
 
 ![Screenshot 2024-05-09 at 9.19.45 PM.png](..%2Fimg%2Fswe-essay%2FScreenshot%202024-05-09%20at%209.19.45%20PM.png)
 
