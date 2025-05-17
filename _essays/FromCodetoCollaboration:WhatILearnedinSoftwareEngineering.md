@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: essay
 type: essay
 title: "From Code to Collaboration: What I Learned in Software Engineering. The Second Time."
 # All dates must be YYYY-MM-DD format!
