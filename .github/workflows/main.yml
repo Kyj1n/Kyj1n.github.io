@@ -55,10 +55,10 @@ cache-version: 0 # Increment this number if you need to re-download cached gems
 id: pages
 uses: actions/configure-pages\@v4
 \- name: Build with Jekyll
-\# Outputs to the './\_site' directory by default
-run: bundle exec jekyll build --baseurl "\${{ steps.pages.outputs.base\_path }}"
+# Outputs to the './\_site' directory by default
+run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base\_path }}"
 env:
-JEKYLL\_ENV: production
+  JEKYLL\_ENV: production
 \- name: Upload artifact
 \# Automatically uploads an artifact from the './\_site' directory by default
 uses: actions/upload-pages-artifact\@v3
