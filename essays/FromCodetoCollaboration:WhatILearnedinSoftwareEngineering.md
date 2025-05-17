@@ -13,7 +13,7 @@ labels:
 
 Throughout this course, I established three SMART goals to achieve personal development: software engineering concept renewal and acquisition of new skills, enhanced time management abilities, better communication, and teamwork competencies. Each of my defined targets showed noticeable improvement throughout the course.
 
-I established my initial goal to update my software engineering knowledge and gain a new understanding. I achieved this goal by using tools like React and Bootstrap and databases. Which I was familiar with, though it still helped me expand my existing knowledge base. I discovered two new technologies: Visual Studio and TypeScript. The learning curve proved challenging, but Im confident to say that I have achieved progress.
+I established my initial goal to update my software engineering knowledge and gain a new understanding. I achieved this goal by using tools like React and Bootstrap, and databases. Which I was familiar with, though it still helped me expand my existing knowledge base. I discovered two new technologies: Visual Studio and TypeScript. The learning curve proved challenging, but Im confident to say that I have achieved progress.
 
 My second goal was to enhance my time management capabilities. I maintained a structured schedule to prevent working at the last minute. I fulfilled deadlines and maintained equilibrium between my class work and other duties. Team-based work sometimes led to excessive procrastination. I myself am guilty. Which resulted in occasional "little-work" heavy periods. Though I did end up finishing all assignments on time, I was responsible for the team and discovered the value of teamwork habits, and that getting things done on time is essential.
 
